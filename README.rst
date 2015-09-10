@@ -19,6 +19,7 @@ Quick start
 
 1. $ django-admin.py startproject --template=https://github.com/zwidny/djtemplate1_8/archive/master.zip my_project
 
+
 Features
 --------
 

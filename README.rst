@@ -14,6 +14,11 @@ Django Boilerplate contains all the boilerplate you need to initial a django pro
 * Free software: BSD license
 * Documentation: https://project_directory.readthedocs.org.
 
+Quick start
+--------
+
+1. $ django-admin.py startproject https://github.com/zwidny/djtemplate1_8/archive/master.zip my_project
+
 Features
 --------
 

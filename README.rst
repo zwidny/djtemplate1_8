@@ -9,7 +9,7 @@ project_name
         :target: https://pypi.python.org/pypi/project_directory
 
 
-Python Boilerplate contains all the boilerplate you need to create a Python package.
+Django Boilerplate contains all the boilerplate you need to initial a django project.
 
 * Free software: BSD license
 * Documentation: https://project_directory.readthedocs.org.
@@ -18,3 +18,10 @@ Features
 --------
 
 * TODO
+
+
+Attention
+--------
+
+* This is first edition, and without test. 
+

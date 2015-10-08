@@ -17,7 +17,7 @@ Django Boilerplate contains all the boilerplate you need to initial a django pro
 Quick start
 --------
 
-1. $ django-admin.py startproject --template=https://github.com/zwidny/djtemplate1_8/archive/master.zip my_project
+1. $ django-admin.py startproject --template=https://github.com/zwidny/djtemplate1_8/archive/master.zip --extension=py,md,html,env my_project
 
 
 Features
